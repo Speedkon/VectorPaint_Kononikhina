@@ -1,0 +1,17 @@
+LAYOUT(MainFormLayout, 868, 420)
+	ITEM(Upp::Button, addLineButton, SetLabel(t_("Add line")).LeftPosZ(8, 64).TopPosZ(8, 20))
+	ITEM(Upp::Button, addTriButton, SetLabel(t_("Add triangle")).LeftPosZ(80, 64).TopPosZ(8, 20))
+	ITEM(Upp::Button, addFrciButton, SetLabel(t_("Add fractal")).LeftPosZ(8, 64).TopPosZ(32, 20))
+	ITEM(PictureController, pictController, HSizePosZ(168, 12).VSizePosZ(8, 4))
+	ITEM(Upp::ColumnList, nameList, LeftPosZ(8, 148).TopPosZ(92, 152))
+	ITEM(Upp::Button, moveSelected, SetLabel(t_("Move")).LeftPosZ(12, 56).TopPosZ(256, 15))
+	ITEM(Upp::Button, rotateSelected, SetLabel(t_("Rotate+")).LeftPosZ(88, 56).TopPosZ(256, 15))
+	ITEM(Upp::Button, rotateLeftSelected, SetLabel(t_("Rotate-")).LeftPosZ(88, 56).TopPosZ(304, 15))
+	ITEM(Upp::Button, scaleSelected, SetLabel(t_("Scale+")).LeftPosZ(88, 56).TopPosZ(280, 15))
+	ITEM(Upp::Button, scaleLeftSelected, SetLabel(t_("Scale-")).LeftPosZ(88, 56).TopPosZ(328, 15))
+	ITEM(Upp::Button, resizeSelected, SetLabel(t_("Resize")).LeftPosZ(12, 56).TopPosZ(280, 15))
+	ITEM(Upp::Button, proprtySelected, SetLabel(t_("Properties")).LeftPosZ(12, 56).TopPosZ(308, 15))
+	ITEM(Upp::Button, addTextButton, SetLabel(t_("Add text")).LeftPosZ(80, 64).TopPosZ(32, 20))
+	ITEM(Upp::StaticText, dv___13, SetText(t_("Picture shapes:\n")).LeftPosZ(8, 84).TopPosZ(76, 24))
+END_LAYOUT
+

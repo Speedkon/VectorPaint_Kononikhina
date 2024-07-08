@@ -1,0 +1,35 @@
+<mxfile host="app.diagrams.net" modified="2024-06-24T07:03:52.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="bzE-hEZ8r3XuwkXUsZPM" version="24.6.2" type="device">
+  <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
+    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J-JhMcDF1hgI8YZ4eLxD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J-JhMcDF1hgI8YZ4eLxD-1" target="J-JhMcDF1hgI8YZ4eLxD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J-JhMcDF1hgI8YZ4eLxD-1" value="художник" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-JhMcDF1hgI8YZ4eLxD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J-JhMcDF1hgI8YZ4eLxD-2" target="J-JhMcDF1hgI8YZ4eLxD-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-JhMcDF1hgI8YZ4eLxD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J-JhMcDF1hgI8YZ4eLxD-2" target="J-JhMcDF1hgI8YZ4eLxD-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-JhMcDF1hgI8YZ4eLxD-2" value="составлять изображение" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J-JhMcDF1hgI8YZ4eLxD-6" value="добавлять" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J-JhMcDF1hgI8YZ4eLxD-8" value="удалять" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
